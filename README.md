@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hola! Soc en Toni Camps 👋
+Professor de Tecnologies de la Informació i la Comunicació al centre IES Josep Miquel Guàrdia.
+Aquí pots trobar alguns dels meus projectes de HTML/CSS i Python utilitzats a l'assignatura de TIC II de 2n de Batxillerat.
 
 <!--
 **tcamps/tcamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
